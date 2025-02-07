@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/alarz/static/css/main.18dc9673.css",
+    "main.js": "/alarz/static/js/main.ca39bf13.js",
+    "static/js/488.9c92ff38.chunk.js": "/alarz/static/js/488.9c92ff38.chunk.js",
+    "static/media/Capture.PNG": "/alarz/static/media/Capture.7604a0b8c60d88677e28.PNG",
+    "static/media/A--Caramel-small.png": "/alarz/static/media/A--Caramel-small.9581e630cbc2f5cd5f4d.png",
+    "static/media/A--Cookies-Small.png": "/alarz/static/media/A--Cookies-Small.ebfc083061e28e615c98.png",
+    "static/media/c-almonds-small.png": "/alarz/static/media/c-almonds-small.1cdc9a166b6c2f36fadd.png",
+    "static/media/c-strawberry-small.png": "/alarz/static/media/c-strawberry-small.61e961870e361bec3e19.png",
+    "static/media/c-chocolate-small-2.png": "/alarz/static/media/c-chocolate-small-2.4e80e7aec73e8c7a317a.png",
+    "static/media/c-chocolate-Small.png": "/alarz/static/media/c-chocolate-Small.851637f591aa711d632a.png",
+    "static/media/c-hazelnut-Small.png": "/alarz/static/media/c-hazelnut-Small.12120d931b3d2ff3cf18.png",
+    "static/media/3-Scoops-small.png": "/alarz/static/media/3-Scoops-small.708f0cf6da297a1b4da0.png",
+    "static/media/Frula-small.png": "/alarz/static/media/Frula-small.e0c093815a7013ae9098.png",
+    "static/media/Lolly-up-Small.png": "/alarz/static/media/Lolly-up-Small.867a7307bad21c28912d.png",
+    "static/media/images.jpeg": "/alarz/static/media/images.10cf39b0c09f35a9ddd1.jpeg",
+    "index.html": "/alarz/index.html",
+    "main.18dc9673.css.map": "/alarz/static/css/main.18dc9673.css.map",
+    "main.ca39bf13.js.map": "/alarz/static/js/main.ca39bf13.js.map",
+    "488.9c92ff38.chunk.js.map": "/alarz/static/js/488.9c92ff38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18dc9673.css",
+    "static/js/main.ca39bf13.js"
+  ]
+}
