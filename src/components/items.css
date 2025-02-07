@@ -1,0 +1,50 @@
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+.container h1 {
+    color: #194E91ff;
+    font-family: "Century Gothic";
+}
+.items {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    flex-wrap: wrap; 
+    gap: 60px;
+}
+
+.item {
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+    text-align: center;
+}
+
+.item-image img {
+    max-width: 100%;
+    height: auto;
+    transition: transform 0.3s ease-in-out;
+}
+
+.item-image img:hover {
+    transform: scale(1.1);
+}
+
+.item-details .category {
+    font-size: 14px;
+    color: #194E91ff;
+    font-weight: 500;
+    margin: 20px 0;
+    font-family: "Century Gothic";
+}
+
+.item-details .name {
+    font-size: 16px;
+    color: #194E91ff;
+    font-weight: 500;
+    font-family: "Century Gothic";
+    margin: 10px 0;
+}
